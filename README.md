@@ -15,7 +15,7 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-![UML Diagram for My Classes](image.png)
+![UML Diagram](image.png)
 
 ## Description
 
